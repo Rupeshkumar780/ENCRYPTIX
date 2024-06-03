@@ -38,7 +38,7 @@ header h2{
     font-size: 30px;
     text-align: center;
     line-height: 60px;
-    text-decoration: underline wavy rgb(54, 50, 79); 
+    text-decoration: underline solid rgb(54, 50, 79); 
 }
 .intro{
     position: relative;
